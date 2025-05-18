@@ -1,0 +1,58 @@
+.gallery img {
+  width: 30%;
+}
+.profile {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+#menu {
+  width: 100%;
+  height: 40px;
+  padding-top: 12px;
+  background-color: black;
+}
+
+#menu a {
+  color: red;
+  font-style: bold;
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+  text-decoration: solid;
+  font-weight: 800px;
+
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#menu a:hover {
+  color: white;
+}
+h1,
+h2 {
+  color: black;
+  font-family: Helvetica, sans-serif;
+  font-size: 30px;
+  text-decoration: none;
+  font-weight: 800px;
+  text-align: center;
+}
+body {
+  background: #eb0000;
+  background: radial-gradient(
+    circle,
+    rgba(235, 0, 0, 1) 0%,
+    rgba(0, 0, 0, 1) 100%
+  );
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+  color: #333333;
+}
+p,
+h4 {
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+  color: black;
+}
+
